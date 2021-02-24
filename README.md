@@ -1,3 +1,4 @@
+https://github.com/AldaWeek/Anti-Adblock-Personalizable/blob/main/Adblock_logo.png
 # Anti-Adblock-Personalizable
 Este funciona con la mayoria de bloqueadores de anuncios, es tan facil que solo tienes que copiar y pegar en tu sitio web.
 En tu index principal busca </style> que ya esta casi al final y pega el código. Para buscar mas rapido pulsa CTR+F, y te aparecerá una barra de búsqueda. tienes que pegar este codigo que te dejo acontinuacion.
