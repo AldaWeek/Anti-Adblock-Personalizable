@@ -3,6 +3,7 @@ Este funciona con la mayoria de bloqueadores de anuncios, es tan facil que solo 
 En tu index principal busca </style> que ya esta casi al final y pega el código. Para buscar mas rapido pulsa CTR+F, y te aparecerá una barra de búsqueda. tienes que pegar este codigo que te dejo acontinuacion.
 Code example
 ---------------------
+```javascript
 /*!
  * Anti-adblock v2.0.0
  * Copyright 2019 zkreations
@@ -67,6 +68,7 @@ Code example
    max-height: 200px; /*altura maxima*/
 }
 
+```
 
 2. Ahora buscamos la seccion </body> y pegamos este codigo.
 3. Code example
