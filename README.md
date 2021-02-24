@@ -1,4 +1,4 @@
-![alt text](https://github.com/AldaWeek/Anti-Adblock-Personalizable/blob/main/Adblock_logo.png)
+. <div align=”center”>![alt text](https://github.com/AldaWeek/Anti-Adblock-Personalizable/blob/main/Adblock_logo.png)</div>
 
 
 # Anti-Adblock-Personalizable
