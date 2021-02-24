@@ -1,7 +1,7 @@
 # Anti-Adblock-Personalizable
 Este funciona con la mayoria de bloqueadores de anuncios, es tan facil que solo tienes que copiar y pegar en tu sitio web.
 En tu index principal busca </style> que ya esta casi al final y pega el código. Para buscar mas rapido pulsa CTR+F, y te aparecerá una barra de búsqueda. tienes que pegar este codigo que te dejo acontinuacion.
-Code example
+Codigo
 ---------------------
 ```javascript
 /*!
@@ -73,7 +73,7 @@ Code example
 2. Ahora buscamos la seccion </body> y pegamos este codigo.
 3. Code example
 ---------------------
-
+```javascript
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css"/>
 <div id="WgD">
   <div class='WgD-position'>
@@ -97,7 +97,7 @@ Nuestro sitio se mantiene gracias a la publicidad, por favor <strong>Desactiva A
 <script>//<![CDATA[
 function adBlockDetected(){document.getElementById("WgD").classList.add("is-detected"),document.body.classList.add("ab-is-detected")}if("undefined"!=typeof fuckAdBlock||"undefined"!=typeof FuckAdBlock)adBlockDetected();else{var importFAB=document.createElement("script");importFAB.onload=function(){fuckAdBlock.onDetected(adBlockDetected),fuckAdBlock.onNotDetected(adBlockNotDetected)},importFAB.onerror=function(){adBlockDetected()},importFAB.integrity="sha384-CXnSItT4vv0CF9Lrll7Wu5SofkJWovtQcEuqpH2REEeQURSJapSzBwvm1QTDwgBK",importFAB.crossOrigin="anonymous",importFAB.src="https://cdn.jsdelivr.net/npm/fuckadblock@3.2.1/fuckadblock.min.js",document.head.appendChild(importFAB)}
 //]]></script>
-
+```
 tambien puedes hacer lo siguiente con el codigo.
 
 Añadir Imagen
